@@ -12,7 +12,7 @@ Commerce happens here. Stores in my virtual world pull their inventory directly 
 
 Events happen here. People gather in my virtual world to celebrate all matters of social and cultural importance. Community is built here. Real-life events are streamed to my virtual world, allowing their organizers to reach new and far-flung audiences.
 
-## The Street
+## The Name
 
 The name StreetMesh is inspired by Neal Stephenson's book *Snow Crash*:
 
