@@ -12,7 +12,7 @@ Like the real world and unlike the web, my virtual world is *spatialized*: it is
 
 Life happens here. People make new connections in my virtual world. They play games, start movements and businesses, and even fall in love. People study the real world using sophisticated virtual tools for visualization and analysis. People earn degrees here.
 
-Commerce happens here. Stores in my virtual world pull their inventory directly from e-commerce websites. I can purchase virtual goods here and store them in my domicile, as well as order material goods and have them shipped to my home.
+Commerce happens here. Stores in my virtual world pull their inventory directly from e-commerce websites. I can purchase virtual goods here and store them in my domicile, as well as order material goods and have them shipped to my home in the real world.
 
 Events happen here. People gather in my virtual world to celebrate all matters of social and cultural importance. Community is built here. Real-life events are streamed to my virtual world, allowing their organizers to reach new and far-flung audiences.
 
