@@ -34,6 +34,7 @@ These current and future projects give life to the ideas in the *StreetMesh* fra
 * [Registry](https://github.com/StreetMesh/Registry) - A directory of safe and interesting StreetMesh compatible servers
 * [StreetMaps](https://github.com/StreetMesh/StreetMaps) - An extension of [Sitemap](https://www.sitemaps.org/), for indexing web content for crawling by StreetMesh Servers
 * [StreetTiles](https://github.com/StreetMesh/StreetTiles) - An application of [Cesium 3D Tiles](https://github.com/CesiumGS/3d-tiles) for compositing StreetMesh environments
+* [StreetPress](https://github.com/StreetMesh/StreetPress) - A [WordPress](https://wordpress.org/) plugin that adapts WordPress/WooCommerce sites for crawling by StreetMesh Servers 
 * [Browser](https://github.com/StreetMesh/Browser) - A reference implementation of a StreetMesh Browser, built with [Godot Engine](https://godotengine.org/)
 * [Server](https://github.com/StreetMesh/Server) - A reference implementation of a StreetMesh Server, built with [Laravel](https://laravel.com/)
 
