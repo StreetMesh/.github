@@ -7,6 +7,6 @@ The inspiration for the name *StreetMesh* is taken from the book *Snow Crash* by
 
 > The Street in *Snow Crash* is the backbone of the Metaverse—a single, grand boulevard that stretches for thousands of kilometers in virtual space. It’s a shared, persistent environment where avatars walk, talk, trade, and interact. Created and maintained by the Global Multimedia Protocol Group, The Street is lined with buildings, parks, shops, and clubs built by users, corporations, and developers, each parceling out space like digital real estate. Everything in the Metaverse revolves around The Street—it’s the main artery of virtual life, a 3D manifestation of the internet where social status is coded into the fidelity of your avatar and the size of your domain. Whether you’re a hacker, a mogul, or a wanderer, The Street is where you show up, plug in, and take part in the digital sprawl.
 
-## License
+## Licensing
 
-The documentation in this repository is [licensed](#) under *GNU GPU v3.0*. 
+The documentation in this repository is licensed under *GNU GPU v3.0*.
