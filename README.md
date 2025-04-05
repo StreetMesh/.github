@@ -6,19 +6,19 @@
 
 ## The Dream
 
-I dream of a virtual world where people can live active, productive lives full of wonder and community. This *metaverse* translates the information systems we have today into richly visual environments: websites of all kinds can make their homes here.
+We dream of a virtual world where people can live active, productive lives full of wonder and community. This *metaverse* translates the information systems we have today into richly visual environments: websites of all kinds can make their homes here.
 
-Like the real world and unlike the web, my virtual world is *spatialized*: it is a vast, interconnected place that can be explored, in which areas of interest have permanent locations, businesses can have stores, and people can have domiciles.
+Like the real world and unlike the web, our virtual world is *spatialized*: it is a vast, interconnected place that can be explored, in which areas of interest have permanent locations, businesses can have stores, and people can have domiciles.
 
-Life happens here. People make new connections in my virtual world. They play games, start movements and businesses, and even fall in love. People study the real world using sophisticated virtual tools for visualization and analysis. People earn degrees here.
+Life happens here. People make new connections in our virtual world. They play games, start movements and businesses, and even fall in love. People study the real world using sophisticated virtual tools for visualization and analysis. People earn degrees here.
 
-Commerce happens here. Stores in my virtual world pull their inventory directly from e-commerce websites. I can purchase virtual goods here and store them in my domicile, as well as order material goods and have them shipped to my home in the real world.
+Commerce happens here. Stores in our virtual world pull their inventory directly from e-commerce websites. We can purchase virtual goods here and store them in our domiciles, and we can order material goods to be shipped to our homes in the real world.
 
-Events happen here. People gather in my virtual world to celebrate all matters of social and cultural importance. Community is built here. Real-life events are streamed to my virtual world, allowing their organizers to reach new and far-flung audiences.
+Events happen here. People gather in our virtual world to celebrate all matters of social and cultural importance. Community is built here. Real-life events are streamed to our virtual world, allowing their organizers to reach new and far-flung audiences.
 
 This is not a product but a platform. It belongs to no one and everyone. Built on the web’s existing foundation, it invites creators, thinkers, builders, and dreamers to shape it freely. 
 
-My virtual world is not just the next version of the Internet—it's the spatial web, the *StreetMesh*.
+Our virtual world is not just the next version of the Internet—it's a spatial web of information, people, and life—the *StreetMesh*.
 
 ## License
 
