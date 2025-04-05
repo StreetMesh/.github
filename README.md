@@ -1,13 +1,10 @@
 # StreetMesh
 
-*StreetMesh* is a public framework for spatially organizing the web using open standards and existing protocols.
+*StreetMesh* is a public framework for spatially organizing the web, building upon open standards and existing protocols.
 
+## The Dream
 
-## Contributing
-
-### Contributors
-
-* [@collegeman](https://github.com/collegeman) (Founding Contributor)
+I dream of a virtual, spatialized world where people can live active, productive lives, full of wonder and community.
 
 ## License
 
@@ -19,6 +16,21 @@ This work is licensed under a
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+## Projects
+
+These projects give life to the ideas in the *StreetMesh* framework.
+
+* [Registry](https://github.com/StreetMesh/Registry) - A directory of safe and interesting StreetMesh compatible servers
+* [StreetMapProtocol](https://github.com/StreetMesh/StreetMapProtocol) - An extension of Sitemap
+* [Browser](https://github.com/StreetMesh/Browser) - A reference implementation of a StreetMesh Browser, built with Godot
+* [Server](https://github.com/StreetMesh/Server) - A reference implementation of a StreetMesh Server, built with Laravel
+
+## Contributing
+
+### Contributors
+
+* [@collegeman](https://github.com/collegeman) (Founding Contributor)
 
 ## The Street
 
