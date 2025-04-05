@@ -1,5 +1,16 @@
 # StreetMesh
 
+*StreetMesh* is a public framework for spatially organizing the web using open standards and existing protocols.
+
+
+## Contributing
+
+### Contributors
+
+* [@collegeman](https://github.com/collegeman) (Founding Contributor)
+
+## License
+
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
