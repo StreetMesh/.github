@@ -77,7 +77,7 @@ These current and future projects give life to the ideas in the *StreetMesh* fra
 * [StreetTiles](https://github.com/StreetMesh/StreetTiles) - An application of [Cesium 3D Tiles](https://github.com/CesiumGS/3d-tiles) for compositing StreetMesh environments
 * [Browser](https://github.com/StreetMesh/Browser) - A reference implementation of a StreetMesh Browser, with support for XR, built with [Unity](https://unity.com/)
 * [Server](https://github.com/StreetMesh/Server) - A reference implementation of a StreetMesh Server, built with [Laravel](https://laravel.com/)
-* [MeshObject](https://github.com/StreetMesh/MeshObject) - [Microdata](https://schema.org/) format HTML pages can use to serve 3D Models to StreetMesh Servers and Browsers
+* [MeshObject](https://github.com/StreetMesh/MeshObject) - [Microdata](https://schema.org/) format HTML pages can use to serve 3D Models to StreetMesh Browsers
 * [StreetMaps](https://github.com/StreetMesh/StreetMaps) - An extension of [Sitemap](https://www.sitemaps.org/), for indexing web content for crawling by StreetMesh Servers
 * [StreetPress](https://github.com/StreetMesh/StreetPress) - A plugin that adapts [WordPress](https://wordpress.org/)/[WooCommerce](https://woocommerce.com/) sites into StreetMesh Sites 
 
