@@ -19,12 +19,13 @@ This work is licensed under a
 
 ## Projects
 
-These projects give life to the ideas in the *StreetMesh* framework.
+These current and future projects give life to the ideas in the *StreetMesh* framework.
 
 * [Registry](https://github.com/StreetMesh/Registry) - A directory of safe and interesting StreetMesh compatible servers
-* [StreetMapProtocol](https://github.com/StreetMesh/StreetMapProtocol) - An extension of [Sitemap](https://www.sitemaps.org/), indexing web properties for StreetMesh Servers
-* [Browser](https://github.com/StreetMesh/Browser) - A reference implementation of a StreetMesh Browser, built with Godot
-* [Server](https://github.com/StreetMesh/Server) - A reference implementation of a StreetMesh Server, built with Laravel
+* [StreetMaps](https://github.com/StreetMesh/StreetMaps) - An extension of [Sitemap](https://www.sitemaps.org/), for indexing web content for crawling by StreetMesh Servers
+* [StreetTiles](https://github.com/StreetMesh/StreetTiles) - An application of [Cesium 3D Tiles](https://github.com/CesiumGS/3d-tiles) for compositing StreetMesh exteriors and interiors
+* [Browser](https://github.com/StreetMesh/Browser) - A reference implementation of a StreetMesh Browser, built with [Godot Engine](https://godotengine.org/)
+* [Server](https://github.com/StreetMesh/Server) - A reference implementation of a StreetMesh Server, built with [Laravel](https://laravel.com/)
 
 ## Contributing
 
@@ -34,7 +35,7 @@ These projects give life to the ideas in the *StreetMesh* framework.
 
 ## The Street
 
-The inspiration for the name *StreetMesh* is taken from the book *Snow Crash* by Neal Stephenson.
+The name StreetMesh is inspired by Neal Stephenson's book *Snow Crash*:
 
 > The Street in *Snow Crash* is the backbone of the Metaverse—a single, grand boulevard that stretches for thousands of kilometers in virtual space. It’s a shared, persistent environment where avatars walk, talk, trade, and interact. Created and maintained by the Global Multimedia Protocol Group, The Street is lined with buildings, parks, shops, and clubs built by users, corporations, and developers, each parceling out space like digital real estate. Everything in the Metaverse revolves around The Street—it’s the main artery of virtual life, a 3D manifestation of the internet where social status is coded into the fidelity of your avatar and the size of your domain. Whether you’re a hacker, a mogul, or a wanderer, The Street is where you show up, plug in, and take part in the digital sprawl.
 
