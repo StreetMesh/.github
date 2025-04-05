@@ -14,7 +14,9 @@ Commerce happens here. Stores in my virtual world pull their inventory directly 
 
 Events happen here. People gather in my virtual world to celebrate all matters of social and cultural importance. Community is built here. Real-life events are streamed to my virtual world, allowing their organizers to reach new and far-flung audiences.
 
-My virtual world is not a product, but a platform. It belongs to no one and everyone. Built on the web’s existing foundation, it invites creators, thinkers, builders, and dreamers to shape it freely. This is not just the next version of the internet—it's the spatial web. It's the StreetMesh.
+This is not a product, but a platform. It belongs to no one and everyone. Built on the web’s existing foundation, it invites creators, thinkers, builders, and dreamers to shape it freely. 
+
+My virtual world is not just the next version of the internet—it's the spatial web. It's the StreetMesh.
 
 ## The Name
 
