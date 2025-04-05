@@ -2,7 +2,7 @@
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-*StreetMesh* is a public framework for spatially organizing the web, building upon open standards and existing protocols. This repository documents this framework.
+*StreetMesh* is a public framework for spatially organizing the web, building upon open standards and existing protocols. This repository documents this framework and anchors the effort to *The Dream*.
 
 ## The Dream
 
@@ -16,9 +16,9 @@ Commerce happens here. Stores in my virtual world pull their inventory directly 
 
 Events happen here. People gather in my virtual world to celebrate all matters of social and cultural importance. Community is built here. Real-life events are streamed to my virtual world, allowing their organizers to reach new and far-flung audiences.
 
-This is not a product, but a platform. It belongs to no one and everyone. Built on the web’s existing foundation, it invites creators, thinkers, builders, and dreamers to shape it freely. 
+This is not a product but a platform. It belongs to no one and everyone. Built on the web’s existing foundation, it invites creators, thinkers, builders, and dreamers to shape it freely. 
 
-My virtual world is not just the next version of the internet—it's the spatial web. It's the StreetMesh.
+My virtual world is not just the next version of the Internet—it's the spatial web, the *StreetMesh*.
 
 ## License
 
@@ -45,7 +45,20 @@ To access the traditional web, users use *Web Browsers* (like [Chrome](https://w
 
 To access the spatialized web, users use *StreetMesh Browsers* to connect to *StreetMesh Servers*, download, and render text and binary data into mostly 3D and some 2D user interfaces.
 
+### StreetMesh Servers
 
+A *StreetMesh Server* is software that runs on top of a standards-compliant web server. StreetMesh Servers perform a range of functionalities, including:
+
+* Hosting User Avatars, Public and Private Data
+* Hosting 3D Tile Data
+* Authenticating User Identities
+* Facilitating Transactions Between People
+* Coordinating Peer-To-Peer Communication Channels
+* Registering Trustworthy StreetMesh Sites
+
+### StreetMesh Browsers
+
+Any software system can be taught to communicate with a *StreetMesh Server*. In this broad sense, if a software system can communicate with a *StreetMesh Server*, it is considered to be a *StreetMesh Browser*. Because Streetmesh Servers use standard Internet protocols for communication, any standards-compliant Web browser can act as a StreetMesh Browser.
 
 ## Projects
 
@@ -55,11 +68,12 @@ These current and future projects give life to the ideas in the *StreetMesh* fra
 * [Avatars](https://github.com/StreetMesh/Avatars) - Avatars are people and programs that inhabit StreetMesh servers
 * [Iconography](https://github.com/StreetMesh/Icons) - Standard iconography for an accessible virtual world, using [Font Awesome](https://fontawesome.com/)
 * [Security](https://github.com/StreetMesh/Security) - Creating identity and enforcing security and privacy using [OAuth](https://en.wikipedia.org/wiki/OAuth)
-* [StreetMaps](https://github.com/StreetMesh/StreetMaps) - An extension of [Sitemap](https://www.sitemaps.org/), for indexing web content for crawling by StreetMesh Servers
 * [StreetTiles](https://github.com/StreetMesh/StreetTiles) - An application of [Cesium 3D Tiles](https://github.com/CesiumGS/3d-tiles) for compositing StreetMesh environments
-* [StreetPress](https://github.com/StreetMesh/StreetPress) - A plugin that adapts [WordPress](https://wordpress.org/)/[WooCommerce](https://woocommerce.com/) sites for crawling by StreetMesh Servers 
 * [Browser](https://github.com/StreetMesh/Browser) - A reference implementation of a StreetMesh Browser, built with [Godot Engine](https://godotengine.org/)
 * [Server](https://github.com/StreetMesh/Server) - A reference implementation of a StreetMesh Server, built with [Laravel](https://laravel.com/)
+* [Site](https://github.com/StreetMesh/Site) - 
+* [StreetMaps](https://github.com/StreetMesh/StreetMaps) - An extension of [Sitemap](https://www.sitemaps.org/), for indexing web content for crawling by StreetMesh Servers
+* [StreetPress](https://github.com/StreetMesh/StreetPress) - A plugin that adapts [WordPress](https://wordpress.org/)/[WooCommerce](https://woocommerce.com/) sites into StreetMesh Sites 
 
 ## Contributing
 
