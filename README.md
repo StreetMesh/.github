@@ -2,7 +2,7 @@
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-*StreetMesh* is a public framework for spatially organizing the web, building upon open standards and existing protocols. This repository documents this framework and anchors the effort to *The Dream*.
+*StreetMesh* is an open source framework for spatially organizing the web, building upon open standards and existing protocols. This repository documents this framework and anchors the effort to *The Dream*.
 
 ## The Dream
 
