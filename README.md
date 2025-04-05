@@ -51,8 +51,8 @@ A *StreetMesh Server* is software that runs on top of a standards-compliant web 
 
 * Hosting User Avatars and their Public and Private Data
 * Hosting 3D Tile Data, giving shape to 3D environments
-* Authenticating User Identities
-* Registering Trustworthy StreetMesh Servers and Sites
+* Authenticating Identities and Authorizing Communication between Users and Servers
+* Registering and Advertising Trustworthy StreetMesh Servers and Sites
 * Facilitating Transactions Between People and Companies
 * Coordinating Peer-To-Peer Communication Channels
 * Networking Multiplayer Game State
