@@ -20,20 +20,32 @@ This is not a product, but a platform. It belongs to no one and everyone. Built 
 
 My virtual world is not just the next version of the internet—it's the spatial web. It's the StreetMesh.
 
+## License
+
+This work—that is, the content of this repository—is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+Other projects linked here are governed by their licenses.
+
 ## The Name
 
 The name StreetMesh is inspired by Neal Stephenson's book *Snow Crash*:
 
 > The Street in *Snow Crash* is the backbone of the Metaverse—a single, grand boulevard that stretches for thousands of kilometers in virtual space. It’s a shared, persistent environment where avatars walk, talk, trade, and interact. Created and maintained by the Global Multimedia Protocol Group, The Street is lined with buildings, parks, shops, and clubs built by users, corporations, and developers, each parceling out space like digital real estate. Everything in the Metaverse revolves around The Street—it’s the main artery of virtual life, a 3D manifestation of the internet where social status is coded into the fidelity of your avatar and the size of your domain. Whether you’re a hacker, a mogul, or a wanderer, The Street is where you show up, plug in, and take part in the digital sprawl.
 
-## License
+## Architecture
 
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+StreetMesh is a decentralized solution for spatializing the web, which itself is a decentralized system.
 
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+To access the traditional web, users use *Web Browsers* (like [Chrome](https://www.google.com/chrome/) and [Safari](https://www.apple.com/safari/)) to connect to *Web Servers* (like [nginx](https://nginx.org/)), download, and render text and binary data into mostly 2D and some 3D user interfaces.
+
+To access the spatialized web, users use *StreetMesh Browsers* to connect to *StreetMesh Servers*, download, and render text and binary data into mostly 3D and some 2D user interfaces.
+
+
 
 ## Projects
 
