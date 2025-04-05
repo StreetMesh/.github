@@ -50,11 +50,12 @@ To access the spatialized web, users use *StreetMesh Browsers* to connect to *St
 A *StreetMesh Server* is software that runs on top of a standards-compliant web server. StreetMesh Servers perform a range of functionalities, including:
 
 * Hosting User Avatars, Public and Private Data
-* Hosting 3D Tile Data
+* Hosting 3D Tile Data, defining 3D environments
 * Authenticating User Identities
 * Facilitating Transactions Between People
 * Coordinating Peer-To-Peer Communication Channels
-* Registering Trustworthy StreetMesh Sites
+* Registering Trustworthy StreetMesh Servers and Sites
+* 
 
 ### StreetMesh Browsers
 
