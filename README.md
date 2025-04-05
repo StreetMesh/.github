@@ -4,7 +4,17 @@
 
 ## The Dream
 
-I dream of a virtual, spatialized world where people can live active, productive lives, full of wonder and community. 
+I dream of a virtual world where people can live active, productive lives, full of wonder and community.
+
+This world is **spatialized**: it is a vast place to be explored, in which places of interest have permanent locations. 
+
+This world is an visual adaptation of the information systems we have today: websites of all kinds make their homes here.
+
+## The Street
+
+The name StreetMesh is inspired by Neal Stephenson's book *Snow Crash*:
+
+> The Street in *Snow Crash* is the backbone of the Metaverse—a single, grand boulevard that stretches for thousands of kilometers in virtual space. It’s a shared, persistent environment where avatars walk, talk, trade, and interact. Created and maintained by the Global Multimedia Protocol Group, The Street is lined with buildings, parks, shops, and clubs built by users, corporations, and developers, each parceling out space like digital real estate. Everything in the Metaverse revolves around The Street—it’s the main artery of virtual life, a 3D manifestation of the internet where social status is coded into the fidelity of your avatar and the size of your domain. Whether you’re a hacker, a mogul, or a wanderer, The Street is where you show up, plug in, and take part in the digital sprawl.
 
 ## License
 
@@ -33,11 +43,6 @@ These current and future projects give life to the ideas in the *StreetMesh* fra
 
 * [@collegeman](https://github.com/collegeman) (Founding Contributor)
 
-## The Street
-
-The name StreetMesh is inspired by Neal Stephenson's book *Snow Crash*:
-
-> The Street in *Snow Crash* is the backbone of the Metaverse—a single, grand boulevard that stretches for thousands of kilometers in virtual space. It’s a shared, persistent environment where avatars walk, talk, trade, and interact. Created and maintained by the Global Multimedia Protocol Group, The Street is lined with buildings, parks, shops, and clubs built by users, corporations, and developers, each parceling out space like digital real estate. Everything in the Metaverse revolves around The Street—it’s the main artery of virtual life, a 3D manifestation of the internet where social status is coded into the fidelity of your avatar and the size of your domain. Whether you’re a hacker, a mogul, or a wanderer, The Street is where you show up, plug in, and take part in the digital sprawl.
 
 
 
