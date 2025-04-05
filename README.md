@@ -10,7 +10,7 @@ Like the real world and the web, my virtual world is *spatialized*: it is a vast
 
 Commerce happens here. Stores in my virtual world pull their inventory directly from e-commerce websites. I can purchase virtual goods here and store them in my domicile, as well as order material goods and have them shipped to my home.
 
-Events happen here. People gather in my virtual world to celebrate all matters of social and cultural importance. Community is built here. Real-life events are streamed to my virtual world, reaching far-flung audiences.
+Events happen here. People gather in my virtual world to celebrate all matters of social and cultural importance. Community is built here. Real-life events are streamed to my virtual world, allowing their organizers to reach far-flung audiences.
 
 ## The Street
 
