@@ -59,7 +59,9 @@ A *StreetMesh Server* is software that runs on top of a standards-compliant web 
 
 ### StreetMesh Browsers
 
-Any software system can be taught to communicate with a *StreetMesh Server*. In this broad sense, if a software system can communicate with a *StreetMesh Server*, it is considered to be a *StreetMesh Browser*. Because Streetmesh Servers use standard Internet protocols for communication, any standards-compliant Web browser can act as a StreetMesh Browser.
+Any software system can be taught to communicate with a *StreetMesh Server*. In this broad sense, if a software system can communicate with a *StreetMesh Server*, it is considered to be a *StreetMesh Browser*. 
+
+Streetmesh Servers use standard Internet protocols like HTTP, TCP, and UDP for communication. Thus, any standards-compliant Web browser can act as a StreetMesh Browser. While a 2D view of a Streetmesh Server is likely to be much less interesting than a 3D one, 
 
 ## Projects
 
