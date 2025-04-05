@@ -22,7 +22,7 @@ This work is licensed under a
 These projects give life to the ideas in the *StreetMesh* framework.
 
 * [Registry](https://github.com/StreetMesh/Registry) - A directory of safe and interesting StreetMesh compatible servers
-* [StreetMapProtocol](https://github.com/StreetMesh/StreetMapProtocol) - An extension of Sitemap
+* [StreetMapProtocol](https://github.com/StreetMesh/StreetMapProtocol) - An extension of [Sitemap](https://www.sitemaps.org/), facilitating efficient ingestion and transformation of web properties by StreetMesh Servers
 * [Browser](https://github.com/StreetMesh/Browser) - A reference implementation of a StreetMesh Browser, built with Godot
 * [Server](https://github.com/StreetMesh/Server) - A reference implementation of a StreetMesh Server, built with Laravel
 
