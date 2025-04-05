@@ -39,6 +39,8 @@ The name StreetMesh is inspired by Neal Stephenson's book *Snow Crash*:
 
 ## Architecture
 
+This section is not exhaustive. For a deep dive, see *Projects* below.
+
 StreetMesh is a decentralized solution for spatializing the web, which itself is a decentralized system.
 
 To access the traditional web, users use *Web Browsers* (like [Chrome](https://www.google.com/chrome/) and [Safari](https://www.apple.com/safari/)) to connect to *Web Servers* (like [nginx](https://nginx.org/)), download, and render text and binary data into mostly 2D and some 3D user interfaces.
