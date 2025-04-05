@@ -69,6 +69,7 @@ Streetmesh Servers rely on standard Internet protocols like HTTP, TCP, and UDP f
 
 These current and future projects give life to the ideas in the *StreetMesh* framework.
 
+* [Experience](https://github.com/StreetMesh/Experience) - A collection of illustrated essays that describe life in the virtual world
 * [Protocol](https://github.com/StreetMesh/Protocol) - The rules guiding communication between StreetMesh Servers and Browsers
 * [Registry](https://github.com/StreetMesh/Registry) - A directory of safe and interesting StreetMesh compatible servers
 * [Avatars](https://github.com/StreetMesh/Avatars) - Avatars are people and programs that inhabit StreetMesh servers
