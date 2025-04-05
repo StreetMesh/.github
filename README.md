@@ -6,7 +6,7 @@
 
 I dream of a virtual world where people can live active, productive lives, full of wonder and community.
 
-Like the real world, this virtual world is **spatialized**: it is a vast, interconnected place to be explored, in which places of interest have permanent locations. 
+Like the real world, this virtual world is **spatialized**: it is a vast, interconnected place to be explored, in which places of interest have permanent locations, businesses can have stores, and people can have domiciles. 
 
 This world translates the information systems we have today into richly visual environments: websites of all kinds can make their homes here, especially e-commerce.
 
