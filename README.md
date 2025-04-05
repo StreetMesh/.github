@@ -8,7 +8,7 @@ I dream of a virtual world where people can live active, productive lives, full 
 
 This world is **spatialized**: it is a vast place to be explored, in which places of interest have permanent locations. 
 
-This world is an visual adaptation of the information systems we have today: websites of all kinds make their homes here.
+This world translates the information systems we have today into richly visual environments: websites of all kinds make their homes here.
 
 ## The Street
 
