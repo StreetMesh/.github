@@ -4,11 +4,9 @@
 
 ## The Dream
 
-I dream of a virtual world where people can live active, productive lives, full of wonder and community.
+I dream of a virtual world where people can live active, productive lives, full of wonder and community. This *metaverse* translates the information systems we have today into richly visual environments: websites of all kinds can make their homes here.
 
-Like the real world, this virtual world is **spatialized**: it is a vast, interconnected place to be explored, in which places of interest have permanent locations, businesses can have stores, and people can have domiciles. 
-
-This world translates the information systems we have today into richly visual environments: websites of all kinds can make their homes here, especially e-commerce.
+Like the real world and the web, my virtual world is *spatialized*: it is a vast, interconnected place that can be explored, in which places of interest have permanent locations, businesses can have stores, and people can have domiciles. 
 
 ## The Street
 
