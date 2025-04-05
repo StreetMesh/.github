@@ -59,18 +59,18 @@ A *StreetMesh Server* is software that runs on top of a standards-compliant web 
 
 ### StreetMesh Browsers
 
-Any software system can be taught to communicate with a *StreetMesh Server*. In this broad sense, if a software system can communicate with a *StreetMesh Server*, it is considered to be a *StreetMesh Browser*. 
+Any software system can be taught to communicate with a *StreetMesh Server*. In this broad sense, if a software system can communicate with a *StreetMesh Server*, then it can act as a *StreetMesh Browser*. 
 
-Streetmesh Servers use standard Internet protocols like HTTP, TCP, and UDP for communication. Thus, any standards-compliant Web browser can act as a StreetMesh Browser. While a 2D view of a Streetmesh Server is likely to be much less interesting than a 3D one, 
+Streetmesh Servers rely on standard Internet protocols like HTTP, TCP, and UDP for communication with clients and other servers. Thus, any standards-compliant Web browser can act as a StreetMesh Browser. The quality and fidelity of the content served are limited or enhanced by the browser used to consume it.
 
 ## Projects
 
 These current and future projects give life to the ideas in the *StreetMesh* framework.
 
+* [Protocol](https://github.com/StreetMesh/Protocol) - The rules guiding communication between StreetMesh Servers and Browsers
 * [Registry](https://github.com/StreetMesh/Registry) - A directory of safe and interesting StreetMesh compatible servers
 * [Avatars](https://github.com/StreetMesh/Avatars) - Avatars are people and programs that inhabit StreetMesh servers
 * [Iconography](https://github.com/StreetMesh/Icons) - Standard iconography for an accessible virtual world, using [Font Awesome](https://fontawesome.com/)
-* [Security](https://github.com/StreetMesh/Security) - Creating identity and enforcing security and privacy using [OAuth](https://en.wikipedia.org/wiki/OAuth)
 * [StreetTiles](https://github.com/StreetMesh/StreetTiles) - An application of [Cesium 3D Tiles](https://github.com/CesiumGS/3d-tiles) for compositing StreetMesh environments
 * [Browser](https://github.com/StreetMesh/Browser) - A reference implementation of a StreetMesh Browser, with support for XR, built with [Godot Engine](https://godotengine.org/)
 * [Server](https://github.com/StreetMesh/Server) - A reference implementation of a StreetMesh Server, built with [Laravel](https://laravel.com/)
