@@ -80,7 +80,9 @@ These current and future projects give life to the ideas in the *StreetMesh* fra
 * [Hub](https://github.com/StreetMesh/Hub) - A reference implementation of a StreetMesh Authoritative Multiplayer Host, built with [Colyseus](https://colyseus.io)
 * [MeshObject](https://github.com/StreetMesh/MeshObject) - [Microdata](https://schema.org/) format HTML pages can use to serve 3D Models and other data to StreetMesh Browsers
 * [StreetMaps](https://github.com/StreetMesh/StreetMaps) - An extension of [Sitemap](https://www.sitemaps.org/), for indexing web content for crawling by StreetMesh Servers
-* [StreetPress](https://github.com/StreetMesh/StreetPress) - A plugin that adapts [WordPress](https://wordpress.org/)/[WooCommerce](https://woocommerce.com/) sites into StreetMesh Sites 
+* [StreetPress](https://github.com/StreetMesh/StreetPress) - A plugin that adapts [WordPress](https://wordpress.org/)/[WooCommerce](https://woocommerce.com/) sites into StreetMesh Sites
+* [Portal](https://github.com/StreetMesh/Portal) - An architectural framework for connecting StreetMesh Servers to real-world locations using 360 and 180 video streaming
+* [Window](https://github.com/StreetMesh/Window) - An architectural framework for connecting StreetMesh Servers to real-world locations using 2D video streaming
 
 ## Contributing
 
