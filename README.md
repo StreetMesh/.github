@@ -20,6 +20,10 @@ This is not a product but a platform. It belongs to no one and everyone. Built o
 
 Our virtual world is not just the next version of the Internet—it's a spatial web of information, people, and life—the *StreetMesh*.
 
+---
+
+*The Dream continues in the [Experiences](https://github.com/StreetMesh/Experiences) project.*
+
 ## License
 
 This work—that is, the content of this repository—is licensed under a
