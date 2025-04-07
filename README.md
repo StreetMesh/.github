@@ -59,6 +59,8 @@ The design and development of StreetMesh are guided by these values:
 
 ### Modularity
 
+### Accessibility
+
 ## Architecture
 
 This section is not exhaustive. For a deep dive, see *Projects* below.
