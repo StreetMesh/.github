@@ -47,6 +47,10 @@ The design and development of StreetMesh are guided by these values:
 
 ### Humanity
 
+[Humanity](https://en.wikipedia.org/wiki/Humanity_(virtue)) is a virtue linked with altruistic ethics derived from the human condition. It signifies human love and compassion towards each other. Not all human endeavors embody humanity: as a species, we are as likely to be humane as we are to be inhumane. Thus, humanity must be intentional—it must be factored into the design of things, lest those things be devoid. 
+
+### Creativity
+
 ### Transparency
 
 ### Interoperability
