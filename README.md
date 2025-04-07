@@ -70,19 +70,20 @@ Streetmesh Servers rely on standard Internet protocols like HTTP, TCP, and UDP f
 These current and future projects give life to the ideas in the *StreetMesh* framework.
 
 * [Experience](https://github.com/StreetMesh/Experience) - A collection of illustrated essays that describe life in the virtual world
+* [Experiments](https://github.com/StreetMesh/Experiments) - Small prototypes of StreetMesh components running in a single [Laravel](https://laravel.com/) container
 * [Protocol](https://github.com/StreetMesh/Protocol) - The rules guiding communication between StreetMesh Servers and Browsers
 * [Registry](https://github.com/StreetMesh/Registry) - A directory of safe and interesting StreetMesh compatible servers
 * [Avatars](https://github.com/StreetMesh/Avatars) - Avatars are people and programs that inhabit StreetMesh servers
 * [Iconography](https://github.com/StreetMesh/Icons) - Standard iconography for an accessible virtual world, using [Font Awesome](https://fontawesome.com/)
 * [StreetTiles](https://github.com/StreetMesh/StreetTiles) - An application of [Cesium 3D Tiles](https://github.com/CesiumGS/3d-tiles) for compositing StreetMesh environments
-* [Browser](https://github.com/StreetMesh/Browser) - A reference implementation of a StreetMesh Browser, with support for XR, built with [react-three-fiber]([https://github.com/pmndrs/react-three-fiber])
+* [Browser](https://github.com/StreetMesh/Browser) - A reference implementation of an embedded StreetMesh Browser, with support for XR, built with [react-three-fiber]([https://github.com/pmndrs/react-three-fiber])
 * [Server](https://github.com/StreetMesh/Server) - A reference implementation of a StreetMesh Server, built with [Laravel](https://laravel.com/)
 * [Hub](https://github.com/StreetMesh/Hub) - A reference implementation of a StreetMesh Authoritative Multiplayer Host, built with [Colyseus](https://colyseus.io)
 * [MeshObject](https://github.com/StreetMesh/MeshObject) - [Microdata](https://schema.org/) format HTML pages can use to serve 3D Models and other data to StreetMesh Browsers
 * [StreetMaps](https://github.com/StreetMesh/StreetMaps) - An extension of [Sitemap](https://www.sitemaps.org/), for indexing web content for crawling by StreetMesh Servers
 * [StreetPress](https://github.com/StreetMesh/StreetPress) - A plugin that adapts [WordPress](https://wordpress.org/)/[WooCommerce](https://woocommerce.com/) sites into StreetMesh Sites
-* [Portal](https://github.com/StreetMesh/Portal) - An architectural framework for connecting StreetMesh Servers to real-world locations using 360 and 180 video streaming
-* [Window](https://github.com/StreetMesh/Window) - An architectural framework for connecting StreetMesh Servers to real-world locations using 2D video streaming
+* [Portal](https://github.com/StreetMesh/Portal) - Connecting StreetMesh Servers to real-world locations using 360 and 180 video streaming
+* [Window](https://github.com/StreetMesh/Window) - Connecting StreetMesh Servers to real-world locations using 2D video streaming
 
 ## Contributing
 
