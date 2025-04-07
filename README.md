@@ -22,7 +22,7 @@ Our virtual world is not just the next version of the Internet—it's a spatial 
 
 ---
 
-*The Dream continues in the [Experiences](https://github.com/StreetMesh/Experiences) project.*
+*The Dream continues in the [Experiences](https://github.com/StreetMesh/Experience) project.*
 
 ## License
 
