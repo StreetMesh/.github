@@ -96,7 +96,7 @@ These current and future projects give life to the ideas in the *StreetMesh* fra
 * [Experience](https://github.com/StreetMesh/Experience) - A collection of illustrated essays that describe life in the virtual world
 * [Experiments](https://github.com/StreetMesh/Experiments) - Small prototypes of StreetMesh components running in a single [Laravel](https://laravel.com/) container
 * [Protocol](https://github.com/StreetMesh/Protocol) - The rules guiding communication between StreetMesh Servers and Browsers
-* [Avatars](https://github.com/StreetMesh/Avatars) - Avatars are people and programs that inhabit StreetMesh servers
+* [Avatars](https://github.com/StreetMesh/Avatars) - Avatars are People and Programs, Places, and Things that inhabit StreetMesh servers
 * [Iconography](https://github.com/StreetMesh/Icons) - Standard iconography for an accessible virtual world, using [Font Awesome](https://fontawesome.com/)
 * [StreetTiles](https://github.com/StreetMesh/StreetTiles) - An application of [Cesium 3D Tiles](https://github.com/CesiumGS/3d-tiles) for compositing StreetMesh environments
 * [Browser](https://github.com/StreetMesh/Browser) - A reference implementation of an embedded StreetMesh Browser, with support for XR, built with [react-three-fiber]([https://github.com/pmndrs/react-three-fiber])
