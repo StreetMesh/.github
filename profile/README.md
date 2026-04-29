@@ -107,13 +107,15 @@ These current and future projects give life to the ideas in the *StreetMesh* fra
 * [StreetPress](https://github.com/StreetMesh/StreetPress) - A plugin that adapts [WordPress](https://wordpress.org/)/[WooCommerce](https://woocommerce.com/) sites into StreetMesh Sites
 * [Portal](https://github.com/StreetMesh/Portal) - Connecting StreetMesh Servers to real-world locations using 360 and 180 video streaming
 * [Window](https://github.com/StreetMesh/Window) - Connecting StreetMesh Servers to real-world locations using 2D video streaming
-* [Registry](https://github.com/StreetMesh/Registry) - A directory of safe and interesting StreetMesh compatible servers
+* [StoryEngine](https://github.com/StreetMesh/StoryEngine) - The narrative layer of StreetMesh — animating NPCs, running games and training, and welcoming visitors at every Place
+* [Registry](https://github.com/StreetMesh/Registry) - A directory of safe and interesting StreetMesh-compatible servers
 
 ## Contributing
 
 ### Contributors
 
-* [@collegeman](https://github.com/collegeman) (Founding Contributor)
+* [@collegeman](https://github.com/collegeman) (Founding Engineering Contributor)
+* [@jjruscella](https://www.linkedin.com/in/jjruscella/) (Founding Story Contributor)
 
 
 
